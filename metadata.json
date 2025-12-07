@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Nexus Game AI",
+  "description": "An intelligent AI copilot that analyzes mobile game screenshots to automate strategy, predict enemy moves, and optimize resource management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
